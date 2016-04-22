@@ -1,0 +1,28 @@
+name: jsd
+favicon: null
+layout_spectrum: 0.8522589488420635
+typography_spectrum: 0.2324965177103877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9013481109868735
+  lightness: 0.16412231023423374
+  saturation: 0.1202038791961968
+  rhythmicContrast: 0.1336241706740111
+purpose: []
